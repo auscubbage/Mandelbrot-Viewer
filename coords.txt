@@ -1,0 +1,9 @@
+Center x: 0.0
+Center y: 0.0
+Width   : 3.0
+Center x: -0.7463
+Center y: 0.1102
+Width   : 0.005
+Center x: -0.235125
+Center y: 0.827215
+Width   : 4e-05
